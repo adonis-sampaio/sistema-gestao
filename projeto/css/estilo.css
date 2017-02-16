@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('../img/img-2-min.jpg');
+    background-size: cover;
+    background-position:top center;
+    height: 100%;
+}
+
+button {	
+	position:fixed; 
+	bottom:10%; 
+	right:10%;
+}
+
+.quadro {
+	background-color: rgba(255,255,255,0.5);
+}
